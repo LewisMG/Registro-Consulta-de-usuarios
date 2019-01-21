@@ -5,7 +5,7 @@
         <h2>Registro de usuarios</h2>
         <div class="form-horizontal col-md-12" role="form">
             <div class="form-group row">
-                <label class="control-label col-sm-2" for="usarioid">Usuario Id:</label>
+                <label class="control-label col-sm-2" for="usarioid">Usuario ID:</label>
                 <div class="col-sm-1 col-md-4 col-xs6">
                     <asp:TextBox type="Number" class="form-control" ID="usuarioidTextBox" Text="0" runat="server"></asp:TextBox>
                 </div>
